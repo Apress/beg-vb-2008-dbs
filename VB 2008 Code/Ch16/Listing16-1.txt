@@ -1,0 +1,27 @@
+         Dim conn As SqlConnection = New SqlConnection _
+        ("Data Source=.\sqlexpress;" & _
+         "Integrated Security=True;" & _
+         "database=northwind")
+
+        'create command
+        Dim cmd As SqlCommand = conn.CreateCommand
+
+        'Specify that a stored procedure is to be executed
+        cmd.CommandType = CommandType.StoredProcedure
+
+        'Deliberately fail to specify the procedure
+        'cmd.CommandText = "sp_Select_All_Employees"
+
+        'Open connection
+        conn.Open()
+
+        'Create data reader
+        Dim dr As SqlDataReader = cmd.ExecuteReader
+
+        'Close reader
+        dr.Close()
+
+        If conn.State = ConnectionState.Open Then
+            MessageBox.Show("Closing the connection")
+            conn.Close()
+        End If

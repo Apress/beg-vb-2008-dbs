@@ -1,0 +1,9 @@
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter19\LinqToXml\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter19\LinqToXml\obj\Debug\LinqToXml.Resources.resources
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter19\LinqToXml\obj\Debug\LinqToXml.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter19\LinqToXml\bin\Debug\LinqToXml.exe
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter19\LinqToXml\bin\Debug\LinqToXml.pdb
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter19\LinqToXml\bin\Debug\LinqToXml.xml
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter19\LinqToXml\obj\Debug\LinqToXml.exe
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter19\LinqToXml\obj\Debug\LinqToXml.xml
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter19\LinqToXml\obj\Debug\LinqToXml.pdb

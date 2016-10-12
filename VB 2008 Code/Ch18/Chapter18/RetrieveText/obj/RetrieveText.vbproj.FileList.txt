@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RetrieveText.Resources.resources
+obj\Debug\RetrieveText.vbproj.GenerateResource.Cache
+bin\Debug\RetrieveText.exe
+bin\Debug\RetrieveText.pdb
+bin\Debug\RetrieveText.xml
+obj\Debug\RetrieveText.exe
+obj\Debug\RetrieveText.xml
+obj\Debug\RetrieveText.pdb

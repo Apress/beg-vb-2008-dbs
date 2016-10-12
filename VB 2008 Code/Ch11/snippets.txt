@@ -1,0 +1,46 @@
+             'connect command to connection
+             cmd.Connection = conn
+             Console.WriteLine("Connnected command to this connection.")
+
+
+             'associate SQL with command
+             cmd.CommandText = "select count(*)from employees"
+
+             Console.WriteLine("Ready to execute SQL:" & _
+             cmd.CommandText)
+
+
+
+           'create command (with both text and connection)
+            Dim sql As String = "select count(*) from employees"
+
+           Dim cmd As SqlCommand = New SqlCommand(sql, conn)
+           Console.WriteLine("Command created and connected.")
+
+
+
+
+            Dim fname As String = "Zachariah"
+            Dim lname As String = "Zinn"
+            Dim vals As String = "('" & fname & "'," & "'" & lname & "')"
+            Dim sqlins As String = "insert into employees" & _
+            "(firstname,lastname)values" & vals
+
+
+
+            'execute nonquery to insert an employee
+            cmdnon.Parameters("@fname").Value = fname
+            cmdnon.Parameters("@lname").Value = lname
+            Console.WriteLine("Executing statement {0}" _
+            , cmdnon.CommandText)
+
+            cmdnon.Prepare()
+            cmdnon.ExecuteNonQuery()
+            Console.WriteLine("After DELETE: Number of employees {0}" _
+            , cmdqry.ExecuteScalar())
+
+
+
+
+
+

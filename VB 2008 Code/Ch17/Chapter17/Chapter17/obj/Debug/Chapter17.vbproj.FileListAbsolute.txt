@@ -1,0 +1,10 @@
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter17\Chapter17\bin\Debug\WindowsApplication1.exe
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter17\Chapter17\bin\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter17\Chapter17\bin\Debug\WindowsApplication1.xml
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter17\Chapter17\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter17\Chapter17\obj\Debug\WindowsApplication1.Events.resources
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter17\Chapter17\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter17\Chapter17\obj\Debug\Chapter17.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter17\Chapter17\obj\Debug\WindowsApplication1.exe
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter17\Chapter17\obj\Debug\WindowsApplication1.xml
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter17\Chapter17\obj\Debug\WindowsApplication1.pdb

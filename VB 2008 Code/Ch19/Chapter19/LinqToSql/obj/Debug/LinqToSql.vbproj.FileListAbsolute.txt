@@ -1,0 +1,9 @@
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter19\LinqToSql\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter19\LinqToSql\obj\Debug\LinqToSql.Resources.resources
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter19\LinqToSql\obj\Debug\LinqToSql.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter19\LinqToSql\bin\Debug\LinqToSql.exe
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter19\LinqToSql\bin\Debug\LinqToSql.pdb
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter19\LinqToSql\bin\Debug\LinqToSql.xml
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter19\LinqToSql\obj\Debug\LinqToSql.exe
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter19\LinqToSql\obj\Debug\LinqToSql.xml
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter19\LinqToSql\obj\Debug\LinqToSql.pdb

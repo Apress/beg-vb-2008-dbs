@@ -1,0 +1,9 @@
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter18\LoadText\bin\Debug\LoadText.exe
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter18\LoadText\bin\Debug\LoadText.pdb
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter18\LoadText\bin\Debug\LoadText.xml
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter18\LoadText\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter18\LoadText\obj\Debug\LoadText.Resources.resources
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter18\LoadText\obj\Debug\LoadText.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter18\LoadText\obj\Debug\LoadText.exe
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter18\LoadText\obj\Debug\LoadText.xml
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter18\LoadText\obj\Debug\LoadText.pdb

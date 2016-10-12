@@ -1,0 +1,13 @@
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter8\Chapter8\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter8\Chapter8\obj\Debug\Chapter8.Resources.resources
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter8\Chapter8\obj\Debug\Chapter8.Transaction.resources
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter8\Chapter8\obj\Debug\Chapter8.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter8\Chapter8\bin\Debug\Chapter8.exe
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter8\Chapter8\bin\Debug\Chapter8.pdb
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter8\Chapter8\bin\Debug\Chapter8.xml
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter8\Chapter8\obj\Debug\Chapter8.exe
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter8\Chapter8\obj\Debug\Chapter8.xml
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter8\Chapter8\obj\Debug\Chapter8.pdb
+D:\Apress\VB 2008\9470xch08\Code\Chapter8\Chapter8\obj\Debug\Chapter8.exe
+D:\Apress\VB 2008\9470xch08\Code\Chapter8\Chapter8\obj\Debug\Chapter8.xml
+D:\Apress\VB 2008\9470xch08\Code\Chapter8\Chapter8\obj\Debug\Chapter8.pdb

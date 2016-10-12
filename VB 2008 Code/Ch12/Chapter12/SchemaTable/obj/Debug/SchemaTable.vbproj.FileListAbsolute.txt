@@ -1,0 +1,9 @@
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter12\SchemaTable\bin\Debug\SchemaTable.exe
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter12\SchemaTable\bin\Debug\SchemaTable.pdb
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter12\SchemaTable\bin\Debug\SchemaTable.xml
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter12\SchemaTable\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter12\SchemaTable\obj\Debug\SchemaTable.Resources.resources
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter12\SchemaTable\obj\Debug\SchemaTable.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter12\SchemaTable\obj\Debug\SchemaTable.exe
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter12\SchemaTable\obj\Debug\SchemaTable.xml
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter12\SchemaTable\obj\Debug\SchemaTable.pdb

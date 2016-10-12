@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\LoadText.Resources.resources
+obj\Debug\LoadText.vbproj.GenerateResource.Cache
+bin\Debug\LoadText.exe
+bin\Debug\LoadText.pdb
+bin\Debug\LoadText.xml
+obj\Debug\LoadText.exe
+obj\Debug\LoadText.xml
+obj\Debug\LoadText.pdb

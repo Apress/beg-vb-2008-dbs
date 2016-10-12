@@ -1,0 +1,23 @@
+﻿<%@ Master Language="VB" CodeFile="Ch15MasterPage.master.vb" Inherits="Ch15MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Untitled Page</title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:Image ID="Image1" runat="server" Height="53px" 
+            ImageUrl="~/Images/Pearl HR.JPG" Width="153px" />
+        <asp:Label ID="Label1" runat="server" Text="Pearl HR Solution" Font-Size=XX-Large></asp:Label>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

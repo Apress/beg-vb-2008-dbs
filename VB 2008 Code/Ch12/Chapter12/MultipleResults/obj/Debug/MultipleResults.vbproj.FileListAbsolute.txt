@@ -1,0 +1,9 @@
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter12\MultipleResults\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter12\MultipleResults\obj\Debug\MultipleResults.Resources.resources
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter12\MultipleResults\obj\Debug\MultipleResults.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter12\MultipleResults\bin\Debug\MultipleResults.exe
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter12\MultipleResults\bin\Debug\MultipleResults.pdb
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter12\MultipleResults\bin\Debug\MultipleResults.xml
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter12\MultipleResults\obj\Debug\MultipleResults.exe
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter12\MultipleResults\obj\Debug\MultipleResults.xml
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter12\MultipleResults\obj\Debug\MultipleResults.pdb

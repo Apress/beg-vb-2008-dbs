@@ -1,0 +1,9 @@
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter12\TypedAccessor\bin\Debug\TypedAccessor.exe
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter12\TypedAccessor\bin\Debug\TypedAccessor.pdb
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter12\TypedAccessor\bin\Debug\TypedAccessor.xml
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter12\TypedAccessor\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter12\TypedAccessor\obj\Debug\TypedAccessor.Resources.resources
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter12\TypedAccessor\obj\Debug\TypedAccessors.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter12\TypedAccessor\obj\Debug\TypedAccessor.exe
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter12\TypedAccessor\obj\Debug\TypedAccessor.xml
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter12\TypedAccessor\obj\Debug\TypedAccessor.pdb

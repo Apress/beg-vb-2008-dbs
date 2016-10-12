@@ -1,0 +1,110 @@
+Imports System
+Imports System.Data
+Imports System.Data.SqlClient
+Imports System.Data.SqlTypes
+Imports System.IO
+Namespace LoadText
+    Friend Class LoadText
+
+        Private Shared fileName As String = "C:\Documents and Settings" & _
+        "\Toshiba User\My Documents\Visual Studio 2008" & _
+        "\Projects\Chapter18\LoadText\LoadText.vb"
+
+        Private conn As SqlConnection = Nothing
+        Private cmd As SqlCommand = Nothing
+
+        Shared Sub Main()
+            Dim loader As New LoadText()
+            Try
+                ' Get text file
+                loader.GetTextFile(fileName)
+                ' Open connection
+                loader.OpenConnection()
+                ' Create command
+                loader.CreateCommand()
+                ' Create table
+                loader.CreateTextTable()
+                ' Prepare insert command
+                loader.PrepareInsertTextFile()
+                ' Load text file
+                loader.ExecuteInsertTextFile(fileName)
+                Console.WriteLine("Loaded {0} into texttable.", fileName)
+            Catch ex As SqlException
+                Console.WriteLine(ex.ToString())
+            Finally
+                loader.CloseConnection()
+                Console.WriteLine("Press any key to continue........")
+                Console.ReadLine()
+            End Try
+        End Sub
+        Private Sub CreateTextTable()
+            ExecuteCommand("IF EXISTS" & ControlChars.CrLf & _
+            "(" & ControlChars.CrLf & "SELECT" & ControlChars.CrLf & _
+            "*" & ControlChars.CrLf & "FROM" & ControlChars.CrLf & _
+            "INFORMATION_SCHEMA.TABLES" & ControlChars.CrLf & _
+            "WHERE" & ControlChars.CrLf & "TABLE_NAME='TEXTTABLE'" & _
+            ControlChars.CrLf & ")" & ControlChars.CrLf & _
+            "DROP TABLE TEXTTABLE")
+
+            ExecuteCommand("CREATE TABLE TEXTTABLE" & _
+            ControlChars.CrLf & "(" & ControlChars.CrLf & _
+            "textfile varchar(255)," & ControlChars.CrLf & _
+            "textdata varchar(max))" & ControlChars.CrLf)
+        End Sub
+
+        Private Sub OpenConnection()
+            ' Create connection
+            conn = New SqlConnection("Server=.\sqlexpress;" & _
+                   "Integrated Security=True;Database=tempdb")
+            ' Open connection
+            conn.Open()
+        End Sub
+
+        Private Sub CloseConnection()
+            ' Close connection
+            conn.Close()
+        End Sub
+
+
+        Private Sub CreateCommand()
+            cmd = New SqlCommand()
+            cmd.Connection = conn
+        End Sub
+        Private Sub ExecuteCommand(ByVal commandText As String)
+            Dim commandResult As Integer
+            cmd.CommandText = commandText
+            Console.WriteLine("Executing command:")
+            Console.WriteLine(cmd.CommandText)
+            commandResult = cmd.ExecuteNonQuery()
+            Console.WriteLine("ExecuteNonQuery returns {0}.", commandResult)
+        End Sub
+        Private Sub PrepareInsertTextFile()
+            cmd.CommandText = "" & ControlChars.CrLf & _
+            "insert into texttable" & ControlChars.CrLf & _
+            "values (@textfile, @textdata)" & ControlChars.CrLf
+
+            cmd.Parameters.Add("@textfile", SqlDbType.NVarChar, 30)
+            cmd.Parameters.Add("@textdata", SqlDbType.Text, 1000000)
+        End Sub
+
+        Private Sub ExecuteInsertTextFile(ByVal textFile As String)
+            Dim textData As String = GetTextFile(textFile)
+            cmd.Parameters("@textfile").Value = textFile
+            cmd.Parameters("@textdata").Value = textData
+            ExecuteCommand(cmd.CommandText)
+        End Sub
+
+        Private Function GetTextFile(ByVal textFile As String) As String
+            Dim textBytes As String = Nothing
+            Console.WriteLine("Loading File: " & textFile)
+
+            Dim fs As New FileStream(textFile, FileMode.Open, FileAccess.Read)
+            Dim sr As New StreamReader(fs)
+            textBytes = sr.ReadToEnd()
+
+            Console.WriteLine("TextBytes has length {0} bytes.", textBytes.Length)
+
+            Return textBytes
+        End Function
+    End Class
+End Namespace

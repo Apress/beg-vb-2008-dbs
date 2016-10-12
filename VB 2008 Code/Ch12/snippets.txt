@@ -1,0 +1,7 @@
+                 rdr("companyname").ToString().PadLeft(25), _
+  		rdr("contactname").ToString().PadLeft(20))
+
+
+
+
+

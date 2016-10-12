@@ -1,0 +1,10 @@
+C:\Documents and Settings\Toshiba User\Desktop\Module18\Module18\New Document\LoadImages\ShowImages\obj\Debug\WindowsApplication1.exe
+C:\Documents and Settings\Toshiba User\Desktop\Module18\Module18\New Document\LoadImages\ShowImages\obj\Debug\WindowsApplication1.xml
+C:\Documents and Settings\Toshiba User\Desktop\Module18\Module18\New Document\LoadImages\ShowImages\obj\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter18\ShowImages\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter18\ShowImages\obj\Debug\WindowsApplication1.DisplayImages.resources
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter18\ShowImages\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter18\ShowImages\obj\Debug\ShowImages.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter18\ShowImages\obj\Debug\WindowsApplication1.exe
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter18\ShowImages\obj\Debug\WindowsApplication1.xml
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter18\ShowImages\obj\Debug\WindowsApplication1.pdb

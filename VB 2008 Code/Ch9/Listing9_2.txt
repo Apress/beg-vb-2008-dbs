@@ -1,0 +1,50 @@
+Imports System
+Imports System.Data
+Imports System.Data.OleDb
+
+Module OleDbProvider
+    Sub Main()
+
+        'Set up connection string
+        Dim conn As New OleDbConnection
+        conn.ConnectionString = "Provider=sqloledb;Data Source=.\sqlexpress;" & _
+        "Initial Catalog=Northwind;Integrated Security=sspi"
+
+        'Set up query string
+        Dim sql As String = "select * from employees"
+
+        'Declare data reader variable
+        Dim reader As OleDbDataReader = Nothing
+        Try
+            ' Open connection
+            conn.Open()
+
+            ' Execute the query
+            Dim cmd As New OleDbCommand(sql, conn)
+            reader = cmd.ExecuteReader()
+
+            ' Display output header
+            Console.WriteLine("This program demonstrates the use of " & _
+            "the OLE DB Data Provider.")
+            Console.WriteLine("Querying database {0} with query {1}" & _
+            ControlChars.NewLine, conn.Database, cmd.CommandText)
+            Console.WriteLine("First Name" + ControlChars.Tab & _
+            "Last Name" + ControlChars.Lf)
+
+            ' Process the result set
+
+            While reader.Read()
+                Console.WriteLine("{0} | {1}", _
+                reader("FirstName").ToString().PadLeft(10), _
+                reader(1).ToString().PadLeft(10))
+            End While
+        Catch e As Exception
+            Console.WriteLine("Error: ", e)
+
+        Finally
+            ' Close reader and connection
+            reader.Close()
+            conn.Close()
+        End Try
+    End Sub
+End Module

@@ -1,0 +1,171 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+EntityDataModel
+</name>
+</assembly>
+<members>
+<member name="M:EntityDataModel.NorthwindModel.NorthwindEntitiesConnectionString.#ctor">
+	<summary>
+Initializes a new NorthwindEntitiesConnectionString object using the connection string found in the 'NorthwindEntitiesConnectionString' section of the application configuration file.
+</summary>
+</member><member name="M:EntityDataModel.NorthwindModel.NorthwindEntitiesConnectionString.#ctor(System.String)">
+	<summary>
+Initialize a new NorthwindEntitiesConnectionString object.
+</summary>
+</member><member name="M:EntityDataModel.NorthwindModel.NorthwindEntitiesConnectionString.#ctor(System.Data.EntityClient.EntityConnection)">
+	<summary>
+Initialize a new NorthwindEntitiesConnectionString object.
+</summary>
+</member><member name="P:EntityDataModel.NorthwindModel.NorthwindEntitiesConnectionString.Employees">
+	<summary>
+There are no comments for Employees in the schema.
+</summary>
+</member><member name="P:EntityDataModel.NorthwindModel.NorthwindEntitiesConnectionString.EmployeeTerritories">
+	<summary>
+There are no comments for EmployeeTerritories in the schema.
+</summary>
+</member><member name="M:EntityDataModel.NorthwindModel.NorthwindEntitiesConnectionString.AddToEmployees(EntityDataModel.NorthwindModel.Employees)">
+	<summary>
+There are no comments for Employees in the schema.
+</summary>
+</member><member name="M:EntityDataModel.NorthwindModel.NorthwindEntitiesConnectionString.AddToEmployeeTerritories(EntityDataModel.NorthwindModel.EmployeeTerritories)">
+	<summary>
+There are no comments for EmployeeTerritories in the schema.
+</summary>
+</member><member name="T:EntityDataModel.NorthwindModel.NorthwindEntitiesConnectionString">
+	<summary>
+There are no comments for NorthwindEntitiesConnectionString in the schema.
+</summary>
+</member><member name="M:EntityDataModel.NorthwindModel.Employees.CreateEmployees(System.Int32,System.String,System.String)">
+	<summary>
+Create a new Employees object.
+</summary>
+	<param name="employeeID">Initial value of EmployeeID.</param>
+	<param name="lastName">Initial value of LastName.</param>
+	<param name="firstName">Initial value of FirstName.</param>
+</member><member name="P:EntityDataModel.NorthwindModel.Employees.EmployeeID">
+	<summary>
+There are no comments for Property EmployeeID in the schema.
+</summary>
+</member><member name="P:EntityDataModel.NorthwindModel.Employees.LastName">
+	<summary>
+There are no comments for Property LastName in the schema.
+</summary>
+</member><member name="P:EntityDataModel.NorthwindModel.Employees.FirstName">
+	<summary>
+There are no comments for Property FirstName in the schema.
+</summary>
+</member><member name="P:EntityDataModel.NorthwindModel.Employees.Title">
+	<summary>
+There are no comments for Property Title in the schema.
+</summary>
+</member><member name="P:EntityDataModel.NorthwindModel.Employees.TitleOfCourtesy">
+	<summary>
+There are no comments for Property TitleOfCourtesy in the schema.
+</summary>
+</member><member name="P:EntityDataModel.NorthwindModel.Employees.BirthDate">
+	<summary>
+There are no comments for Property BirthDate in the schema.
+</summary>
+</member><member name="P:EntityDataModel.NorthwindModel.Employees.HireDate">
+	<summary>
+There are no comments for Property HireDate in the schema.
+</summary>
+</member><member name="P:EntityDataModel.NorthwindModel.Employees.Address">
+	<summary>
+There are no comments for Property Address in the schema.
+</summary>
+</member><member name="P:EntityDataModel.NorthwindModel.Employees.City">
+	<summary>
+There are no comments for Property City in the schema.
+</summary>
+</member><member name="P:EntityDataModel.NorthwindModel.Employees.Region">
+	<summary>
+There are no comments for Property Region in the schema.
+</summary>
+</member><member name="P:EntityDataModel.NorthwindModel.Employees.PostalCode">
+	<summary>
+There are no comments for Property PostalCode in the schema.
+</summary>
+</member><member name="P:EntityDataModel.NorthwindModel.Employees.Country">
+	<summary>
+There are no comments for Property Country in the schema.
+</summary>
+</member><member name="P:EntityDataModel.NorthwindModel.Employees.HomePhone">
+	<summary>
+There are no comments for Property HomePhone in the schema.
+</summary>
+</member><member name="P:EntityDataModel.NorthwindModel.Employees.Extension">
+	<summary>
+There are no comments for Property Extension in the schema.
+</summary>
+</member><member name="P:EntityDataModel.NorthwindModel.Employees.Photo">
+	<summary>
+There are no comments for Property Photo in the schema.
+</summary>
+</member><member name="P:EntityDataModel.NorthwindModel.Employees.Notes">
+	<summary>
+There are no comments for Property Notes in the schema.
+</summary>
+</member><member name="P:EntityDataModel.NorthwindModel.Employees.PhotoPath">
+	<summary>
+There are no comments for Property PhotoPath in the schema.
+</summary>
+</member><member name="P:EntityDataModel.NorthwindModel.Employees.Employees1">
+	<summary>
+There are no comments for Employees1 in the schema.
+</summary>
+</member><member name="P:EntityDataModel.NorthwindModel.Employees.Employees2">
+	<summary>
+There are no comments for Employees2 in the schema.
+</summary>
+</member><member name="P:EntityDataModel.NorthwindModel.Employees.Employees2Reference">
+	<summary>
+There are no comments for Employees2 in the schema.
+</summary>
+</member><member name="P:EntityDataModel.NorthwindModel.Employees.EmployeeTerritories">
+	<summary>
+There are no comments for EmployeeTerritories in the schema.
+</summary>
+</member><member name="T:EntityDataModel.NorthwindModel.Employees">
+	<summary>
+There are no comments for NorthwindModel.Employees in the schema.
+</summary>
+	<KeyProperties>
+EmployeeID
+</KeyProperties>
+</member><member name="M:EntityDataModel.NorthwindModel.EmployeeTerritories.CreateEmployeeTerritories(System.Int32,System.String)">
+	<summary>
+Create a new EmployeeTerritories object.
+</summary>
+	<param name="employeeID">Initial value of EmployeeID.</param>
+	<param name="territoryID">Initial value of TerritoryID.</param>
+</member><member name="P:EntityDataModel.NorthwindModel.EmployeeTerritories.EmployeeID">
+	<summary>
+There are no comments for Property EmployeeID in the schema.
+</summary>
+</member><member name="P:EntityDataModel.NorthwindModel.EmployeeTerritories.TerritoryID">
+	<summary>
+There are no comments for Property TerritoryID in the schema.
+</summary>
+</member><member name="P:EntityDataModel.NorthwindModel.EmployeeTerritories.Employees">
+	<summary>
+There are no comments for Employees in the schema.
+</summary>
+</member><member name="P:EntityDataModel.NorthwindModel.EmployeeTerritories.EmployeesReference">
+	<summary>
+There are no comments for Employees in the schema.
+</summary>
+</member><member name="T:EntityDataModel.NorthwindModel.EmployeeTerritories">
+	<summary>
+There are no comments for NorthwindModel.EmployeeTerritories in the schema.
+</summary>
+	<KeyProperties>
+EmployeeID
+TerritoryID
+</KeyProperties>
+</member>
+</members>
+</doc>

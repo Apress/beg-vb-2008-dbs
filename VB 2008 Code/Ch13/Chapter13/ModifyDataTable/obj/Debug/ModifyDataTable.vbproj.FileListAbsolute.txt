@@ -1,0 +1,9 @@
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter13\ModifyDataTable\bin\Debug\ModifyDataTable.exe
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter13\ModifyDataTable\bin\Debug\ModifyDataTable.pdb
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter13\ModifyDataTable\bin\Debug\ModifyDataTable.xml
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter13\ModifyDataTable\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter13\ModifyDataTable\obj\Debug\ModifyDataTable.Resources.resources
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter13\ModifyDataTable\obj\Debug\ModifyDataTable.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter13\ModifyDataTable\obj\Debug\ModifyDataTable.exe
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter13\ModifyDataTable\obj\Debug\ModifyDataTable.xml
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter13\ModifyDataTable\obj\Debug\ModifyDataTable.pdb

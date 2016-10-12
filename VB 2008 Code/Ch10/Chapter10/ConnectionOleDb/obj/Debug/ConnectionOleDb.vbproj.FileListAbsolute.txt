@@ -1,0 +1,9 @@
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter10\ConnectionOleDb\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter10\ConnectionOleDb\obj\Debug\ConnectionOleDb.Resources.resources
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter10\ConnectionOleDb\obj\Debug\ConnectionOleDb.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter10\ConnectionOleDb\bin\Debug\ConnectionOleDb.exe
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter10\ConnectionOleDb\bin\Debug\ConnectionOleDb.pdb
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter10\ConnectionOleDb\bin\Debug\ConnectionOleDb.xml
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter10\ConnectionOleDb\obj\Debug\ConnectionOleDb.exe
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter10\ConnectionOleDb\obj\Debug\ConnectionOleDb.xml
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter10\ConnectionOleDb\obj\Debug\ConnectionOleDb.pdb

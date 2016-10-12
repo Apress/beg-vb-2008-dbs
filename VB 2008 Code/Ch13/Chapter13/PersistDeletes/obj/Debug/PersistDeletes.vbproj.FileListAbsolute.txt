@@ -1,0 +1,9 @@
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter13\PersistDeletes\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter13\PersistDeletes\obj\Debug\PersistDeletes.Resources.resources
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter13\PersistDeletes\obj\Debug\PersistDeletes.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter13\PersistDeletes\bin\Debug\PersistDeletes.exe
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter13\PersistDeletes\bin\Debug\PersistDeletes.pdb
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter13\PersistDeletes\bin\Debug\PersistDeletes.xml
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter13\PersistDeletes\obj\Debug\PersistDeletes.exe
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter13\PersistDeletes\obj\Debug\PersistDeletes.xml
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter13\PersistDeletes\obj\Debug\PersistDeletes.pdb

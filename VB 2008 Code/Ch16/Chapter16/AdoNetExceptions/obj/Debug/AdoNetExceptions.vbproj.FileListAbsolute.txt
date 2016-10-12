@@ -1,0 +1,10 @@
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter16\AdoNetExceptions\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter16\AdoNetExceptions\obj\Debug\Chapter16.Form1.resources
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter16\AdoNetExceptions\obj\Debug\Chapter16.Resources.resources
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter16\AdoNetExceptions\obj\Debug\AdoNetExceptions.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter16\AdoNetExceptions\bin\Debug\Chapter16.exe
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter16\AdoNetExceptions\bin\Debug\Chapter16.pdb
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter16\AdoNetExceptions\bin\Debug\Chapter16.xml
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter16\AdoNetExceptions\obj\Debug\Chapter16.exe
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter16\AdoNetExceptions\obj\Debug\Chapter16.xml
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter16\AdoNetExceptions\obj\Debug\Chapter16.pdb

@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication1.Resources.resources
+obj\Debug\ShowImages.vbproj.GenerateResource.Cache
+bin\Debug\WindowsApplication1.exe
+bin\Debug\WindowsApplication1.pdb
+bin\Debug\WindowsApplication1.xml
+obj\Debug\WindowsApplication1.exe
+obj\Debug\WindowsApplication1.xml
+obj\Debug\WindowsApplication1.pdb
+obj\Debug\WindowsApplication1.DisplayImages.resources

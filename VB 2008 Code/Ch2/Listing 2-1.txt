@@ -1,0 +1,14 @@
+Imports System
+Imports System.Linq
+Imports System.Collections.Generic
+Imports System.Text
+
+Namespace FirstApp
+    Class Program
+        Shared Sub Main(ByVal args() As String)
+            Console.WriteLine("Welcome to VB 9.0")
+            Console.ReadLine()
+        End Sub
+    End Class
+    
+End Namespace

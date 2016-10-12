@@ -1,0 +1,9 @@
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter11\CommandNonQuery\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter11\CommandNonQuery\obj\Debug\CommandNonQuery.Resources.resources
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter11\CommandNonQuery\obj\Debug\CommandNonQuery.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter11\CommandNonQuery\bin\Debug\CommandNonQuery.exe
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter11\CommandNonQuery\bin\Debug\CommandNonQuery.pdb
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter11\CommandNonQuery\bin\Debug\CommandNonQuery.xml
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter11\CommandNonQuery\obj\Debug\CommandNonQuery.exe
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter11\CommandNonQuery\obj\Debug\CommandNonQuery.xml
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter11\CommandNonQuery\obj\Debug\CommandNonQuery.pdb

@@ -1,0 +1,9 @@
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter10\ConnectionDisplay\bin\Debug\ConnectionDisplay.exe
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter10\ConnectionDisplay\bin\Debug\ConnectionDisplay.pdb
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter10\ConnectionDisplay\bin\Debug\ConnectionDisplay.xml
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter10\ConnectionDisplay\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter10\ConnectionDisplay\obj\Debug\ConnectionDisplay.Resources.resources
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter10\ConnectionDisplay\obj\Debug\ConnectionDisplay.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter10\ConnectionDisplay\obj\Debug\ConnectionDisplay.exe
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter10\ConnectionDisplay\obj\Debug\ConnectionDisplay.xml
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter10\ConnectionDisplay\obj\Debug\ConnectionDisplay.pdb

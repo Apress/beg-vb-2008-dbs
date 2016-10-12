@@ -1,0 +1,9 @@
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter12\OrdinalIndexer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter12\OrdinalIndexer\obj\Debug\OrdinalIndexer.Resources.resources
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter12\OrdinalIndexer\obj\Debug\OrdinalIndexer.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter12\OrdinalIndexer\bin\Debug\OrdinalIndexer.exe
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter12\OrdinalIndexer\bin\Debug\OrdinalIndexer.pdb
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter12\OrdinalIndexer\bin\Debug\OrdinalIndexer.xml
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter12\OrdinalIndexer\obj\Debug\OrdinalIndexer.exe
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter12\OrdinalIndexer\obj\Debug\OrdinalIndexer.xml
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter12\OrdinalIndexer\obj\Debug\OrdinalIndexer.pdb

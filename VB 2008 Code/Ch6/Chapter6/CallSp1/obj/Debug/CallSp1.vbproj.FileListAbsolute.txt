@@ -1,0 +1,9 @@
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\CallSp1\CallSp1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\CallSp1\CallSp1\obj\Debug\CallSp1.Resources.resources
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\CallSp1\CallSp1\obj\Debug\CallSp1.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\CallSp1\CallSp1\bin\Debug\CallSp1.exe
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\CallSp1\CallSp1\bin\Debug\CallSp1.pdb
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\CallSp1\CallSp1\bin\Debug\CallSp1.xml
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\CallSp1\CallSp1\obj\Debug\CallSp1.exe
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\CallSp1\CallSp1\obj\Debug\CallSp1.xml
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\CallSp1\CallSp1\obj\Debug\CallSp1.pdb

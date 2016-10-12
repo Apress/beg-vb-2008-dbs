@@ -1,0 +1,15 @@
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter14\Chapter14\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter14\Chapter14\obj\Debug\WindowsApplication1.WinApp.resources
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter14\Chapter14\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter14\Chapter14\obj\Debug\WinApp.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter14\Chapter14\bin\Debug\WindowsApplication1.exe
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter14\Chapter14\bin\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter14\Chapter14\bin\Debug\WindowsApplication1.xml
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter14\Chapter14\obj\Debug\WindowsApplication1.exe
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter14\Chapter14\obj\Debug\WindowsApplication1.xml
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter14\Chapter14\obj\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter14\Chapter14\obj\Debug\WindowsApplication1.AddNames.resources
+C:\Documents and Settings\Toshiba User\My Documents\Visual Studio 2008\Projects\Chapter14\Chapter14\obj\Debug\WindowsApplication1.ParentForm.resources
+D:\Apress\VB 2008\9470xch14\Code\Chapter14\Chapter14\obj\Debug\WindowsApplication1.exe
+D:\Apress\VB 2008\9470xch14\Code\Chapter14\Chapter14\obj\Debug\WindowsApplication1.xml
+D:\Apress\VB 2008\9470xch14\Code\Chapter14\Chapter14\obj\Debug\WindowsApplication1.pdb
